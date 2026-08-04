@@ -80,37 +80,6 @@ Email
 
 <br>
 
-Instagram
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<a href="YOUR_DISCORD_LINK">
-
-<img src="https://cdn.simpleicons.org/discord/5865F2" width="55"/>
-
-<br>
-
-Discord
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="YOUR_PORTFOLIO_LINK">
-
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="55"/>
-
-<br>
 
 Portfolio
 
@@ -177,38 +146,5 @@ Resume
 ✔️ **Data Modeling & ETL**
 
 <br clear="both"/>
-
----
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/syed-sarfarazhussaini-4436222b9">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/khatheebsyedsarfarazhussaini-pixel">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:khatheebsyedsarfarazhussaini@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/syed-sarfarazhussaini-4436222b9"><b>LinkedIn</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/khatheebsyedsarfarazhussaini-pixel"><b>GitHub</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:khatheebsyedsarfarazhussaini@gmail.com"><b>Email</b></a>
-
-</p>
 
 ---
