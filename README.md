@@ -91,7 +91,8 @@ Portfolio
 
 <a href="YOUR_KAGGLE_LINK">
 
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55"/>
+<img src="https://www.flaticon.com/free-icon/user-profile_9386860?term=resume&page=1&position=16&origin=search&related_id=9386860
+" width="55"/>
 
 <br>
 
