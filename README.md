@@ -34,7 +34,7 @@ Power BI Developer • Business Intelligence • Data Analytics • SQL Server
 
 <a href="https://www.linkedin.com/in/syed-sarfarazhussaini-4436222b9">
 
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55"/>
+<img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://cdn-icons-png.flaticon.com/128/145/145807.png)" width="55"/>
 
 <br>
 
