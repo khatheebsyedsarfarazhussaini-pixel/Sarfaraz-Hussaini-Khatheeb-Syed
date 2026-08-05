@@ -95,20 +95,6 @@ Portfolio
 
 <br>
 
-Kaggle
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="YOUR_RESUME_LINK">
-
-<img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55"/>
-
-<br>
-
 Resume
 
 </a>
